@@ -7,4 +7,5 @@
 		<a class="p-2 text-dark" href="/posts">Blog</a>
 	</nav>
 	<a class="btn btn-outline-primary" href="/register">Sign up</a>
+	<a class="btn btn-outline-primary ml-2" href="/posts/create">Post create</a>
 </div>
